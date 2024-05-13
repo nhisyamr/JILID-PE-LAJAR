@@ -1,0 +1,11 @@
+- FRAMEWORK YANG PERLU DIINSTALL
+
+- Multipage, akun, chat
+firebase_admin
+streamlit
+streamlit_option_menu
+python-dotenv
+
+- Musik
+FFmpeg
+
